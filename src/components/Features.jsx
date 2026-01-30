@@ -9,7 +9,7 @@ const Features = () => {
             </div>
             <div className="features-grid">
                 <div className="feature-card">
-                    <div className="feature-icon">👨👩👧👦</div>
+                    <div className="feature-icon">👩‍🦳</div>
                     <h3>No Age Limits (0-120 Years)</h3>
                     <p>Cover everyone from newborns to seniors. Unlike traditional insurance, we don't reject based on age. Finally, health coverage for your entire family.</p>
                 </div>
